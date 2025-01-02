@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "ROG SWIFT 360Hz 電競螢幕",
+    "description": "24.5吋 FHD (1920 x 1080) Fast IPS 電競螢幕，360Hz 更新率，1ms 反應時間，G-SYNC 技術",
+    "price": 24900,
+    "image": "/assets/images/products/monitor1.jpg",
+    "stock": 10,
+    "category": "螢幕"
+  },
+  {
+    "id": 2,
+    "name": "Razer BlackWidow V3 Pro 機械式鍵盤",
+    "description": "無線機械式電競鍵盤，Razer™ Green 機械軸，RGB 背光，多媒體控制鍵",
+    "price": 6990,
+    "image": "/assets/images/products/keyboard1.jpg",
+    "stock": 15,
+    "category": "鍵盤"
+  },
+  {
+    "id": 3,
+    "name": "Logitech G Pro X Superlight 無線滑鼠",
+    "description": "超輕量級無線電競滑鼠，HERO 25K 感應器，63g 重量，LIGHTSPEED 無線技術",
+    "price": 4990,
+    "image": "/assets/images/products/mouse1.jpg",
+    "stock": 20,
+    "category": "滑鼠"
+  },
+  {
+    "id": 4,
+    "name": "SteelSeries QcK Prism XL RGB 滑鼠墊",
+    "description": "900mm x 300mm x 4mm，12區 RGB 動態燈效，微織布表面，防滑橡膠底座",
+    "price": 1990,
+    "image": "/assets/images/products/mousepad1.jpg",
+    "stock": 30,
+    "category": "滑鼠墊"
+  },
+  {
+    "id": 5,
+    "name": "HyperX Cloud Alpha 電競耳機",
+    "description": "雙腔體設計，HyperX 定制 50mm 驅動單元，記憶泡綿耳罩，鋁合金框架",
+    "price": 3290,
+    "image": "/assets/images/products/headset1.jpg",
+    "stock": 25,
+    "category": "耳機"
+  },
+  {
+    "id": 6,
+    "name": "ZOWIE XL2746K 電競螢幕",
+    "description": "27吋 FHD (1920 x 1080) TN 面板，240Hz 更新率，DyAc+ 技術，遮光罩",
+    "price": 19900,
+    "image": "/assets/images/products/monitor2.jpg",
+    "stock": 8,
+    "category": "螢幕"
+  },
+  {
+    "id": 7,
+    "name": "Ducky One 3 機械式鍵盤",
+    "description": "PBT 二色成型鍵帽，Cherry MX 軸體，RGB 背光，熱插拔 PCB",
+    "price": 3990,
+    "image": "/assets/images/products/keyboard2.jpg",
+    "stock": 12,
+    "category": "鍵盤"
+  },
+  {
+    "id": 8,
+    "name": "Razer DeathAdder V3 Pro 無線滑鼠",
+    "description": "Focus Pro 30K 光學感應器，無線設計，63g 超輕量，5G 光學軸",
+    "price": 4590,
+    "image": "/assets/images/products/mouse2.jpg",
+    "stock": 18,
+    "category": "滑鼠"
+  }
+] 
