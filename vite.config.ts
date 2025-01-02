@@ -8,7 +8,7 @@ export default defineConfig({
     strictPort: false,
     open: true
   },
-  base: process.env.NODE_ENV === 'production' ? '/your-repo-name/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/eason-end-gaming-store/' : '/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
